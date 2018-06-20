@@ -5,3 +5,6 @@
 /IAP/*.txt
 *.suo
 *.ini
+/Debug
+Debug
+*.opendb
