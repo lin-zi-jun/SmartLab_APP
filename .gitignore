@@ -1,0 +1,7 @@
+/ipch
+/IAP/Release
+/Release
+/*.db
+/IAP/*.txt
+*.suo
+*.ini
